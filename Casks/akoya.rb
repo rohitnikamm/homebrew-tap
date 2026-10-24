@@ -1,6 +1,6 @@
 cask "akoya" do
-  version "0.2.0"
-  sha256 "fcd2fd6a9a0e9b19d256e18b481aeb077d718399aa7dc5b092cefd69907e7520"
+  version "0.3.0"
+  sha256 "16e5d833be31a92903ad98ec90ebe899d809549f97c78d98b3deb3d713b7198b"
   url "https://github.com/rohitnikamm/akoya/releases/download/v#{version}/Akoya-v#{version}.zip"
   name "Akoya"
   desc "Push-to-talk dictation that lives in the menu bar"
